@@ -5,3 +5,9 @@
 3) saving the file content(commit)
 
 4) uploading file to remore branch(push)
+
+5) its all about merging the branches
+     1) go to master branch
+     2) type git merge <branch-name>
+    3) once merged at local then push to remote branch
+    4) use git push to upload to remote branch
