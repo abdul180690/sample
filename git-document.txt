@@ -1,0 +1,7 @@
+1) cloning the repository(downloading folder from remote machine)
+
+2) creating branch(creating folder)
+
+3) saving the file content(commit)
+
+4) uploading file to remore branch(push)
