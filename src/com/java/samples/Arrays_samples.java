@@ -17,5 +17,8 @@ public class Arrays_samples {
         for(int i=0; i<arr.length; i++) System.out.print(arr[i] + " ");
         System.out.println();
         System.out.println(Arrays.toString(arr));               //another method to print arrays by converting into string
+        for (int a : arr) {                                     // Enhanced for loop
+            System.out.print(a+" ");
+        }
     }
 }
