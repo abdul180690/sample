@@ -11,3 +11,4 @@
      2) type git merge <branch-name>
     3) once merged at local then push to remote branch
     4) use git push to upload to remote branch
+6) updated on intellij
