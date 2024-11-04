@@ -7,5 +7,6 @@ public class StaticDemo {
         Employee employee=new Employee();
         employee.getNameAndAge("Abdullah", 34);
         Employee.getName();
+
     }
 }
